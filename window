@@ -1,0 +1,13 @@
+#! /bin/bash
+
+#check to see if $1 has a value
+ if [ "$#" -eq  "0" ]    
+    then 
+        read -p "Link:" LINK1
+#    /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --app=$LINK1
+        echo "1"
+else
+
+    /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --app=$1
+    echo "2"
+fi
