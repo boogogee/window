@@ -6,7 +6,7 @@ Launches a <ins>clean</ins> Chrome window with no tabs or menu bars. Perfect for
 
 
 ## Quick Start Installation 
-Save the window.sh file to your machine. Make it executible, and then run it from the command line.
+Save the window.sh file to your machine. Make it executable, and then run it from the command line.
 
 `./window.sh paste_your_link_here`
 
@@ -19,7 +19,7 @@ Save the window.sh file to your machine. Make it executible, and then run it fro
 
     `nano window.sh`
 
-3. Copy and pase the following code into the text editor:
+3. Copy and paste the following code into the text editor:
 
 ```
 #! /bin/bash
