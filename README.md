@@ -1,5 +1,6 @@
 # Chrome Window for Presenting (Mac)
 ---
+![Screenshot 2024-08-21 at 14 31 47](https://github.com/user-attachments/assets/6aafec19-4593-41e8-b444-be4be6bd32a0)
 
 Launches a <ins>clean</ins> Chrome window with no tabs or menu bars. Perfect for when you need to share a chrome tab or slide presentation and you want to hide the bookmarks and toolbar. 
 
